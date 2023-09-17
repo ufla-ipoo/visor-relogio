@@ -15,7 +15,7 @@ Este projeto é parte do material do livro
 
 É discutido no capítulo 3.
 
-Para usar este projeto, crie uma instância da classe `VisorRelogio`. 
+Para usar este projeto, crie uma instância da classe `VisorDeRelogio`. 
 Em seguida, inspecione esta instância e deixe a janela do inspetor de objetos aberta. 
 Com a janela do inspetor aberta, chame os métodos do objeto, como `tiqueTaque` e `definirHora`. 
 Observe o atributo `stringVisor` no inspetor.
